@@ -79,7 +79,7 @@ document.
 ------------------------------------------------------------------------
 
 ## Project Structure
-
+```
 Swiggy_InsightRAG/
 │
 ├── src/
@@ -99,7 +99,7 @@ Swiggy_InsightRAG/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ------------------------------------------------------------------------
 
 ## How to Run the Project
@@ -146,7 +146,7 @@ vector store.
 -   What were the EBITDA margins?
 
 ------------------------------------------------------------------------
-
+[]()
 ## Note
 
 The model is instructed to answer only using the retrieved context from
